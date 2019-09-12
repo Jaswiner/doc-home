@@ -21,6 +21,7 @@ a {
     url(https://cdn.jaswine.com/commons/fonts/permanent.ttf) format("truetype");
 }
 
+/* 类毛笔字体 */
 @font-face {
   font-family: "Snow3500";
   font-style: normal;
@@ -69,6 +70,16 @@ a {
     margin-top: 0px;
   }
 
+  .sub{
+    font-family: "Snow3500",
+    sans-serif;
+    font-size: 2em !important;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    display: block;
+  }
   .icon {
     width: 20px !important;
   }
